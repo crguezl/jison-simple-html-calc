@@ -1,4 +1,4 @@
-# Simple example in the client using jison.
+# Simple example in the browser using jison.
 
 run `rake` to produce `calculator.js`
 
