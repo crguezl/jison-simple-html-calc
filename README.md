@@ -3,7 +3,8 @@
 * run `rake` to produce `calculator.js`
 * lexical analysis in a separated file
 
-See [//crguezl.github.io/jison-simple-html-calc](//crguezl.github.io/jison-simple-html-calc)
+See gh-page at 
+[//crguezl.github.io/jison-simple-html-calc](//crguezl.github.io/jison-simple-html-calc)
 
 # Práctica: Secuencia de Asignaciones Simples
 
