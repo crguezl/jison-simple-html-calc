@@ -18,3 +18,4 @@ y cuyos valores son los números.
 Modifique los analizadores léxico y sintáctico de forma conveniente.
 
 Añada acciones semánticas para que el analizador devuelva una tabla de símbolos con los identificadores y sus valores.
+![Demo](pankajkumarkbn.github.io/images/img2.png)
